@@ -1,0 +1,1 @@
+Open the main .pde file titled group_5_assignment5 and click play. No further action should be necessary, the animation will replay indefinitely.

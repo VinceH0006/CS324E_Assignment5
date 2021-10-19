@@ -1,0 +1,9 @@
+Group 2: Project 5 Description
+
+Our scene was originally intended to look more like a cricket course on a windy day; it ended up looking more like a golf course but the basic animations are all the same as the original intention.
+
+1. The hole we’re aiming for along with a flag waving in the wind, as near as possible an approximation anyway with the limitations of the basic 3D shapes we have to work with by default in processing, no outside assets were used. Three boxes animating/oscillating in unison, coded by Dayton.
+
+2. The ball we’re hitting traveling in the negative X direction and into the scene in 3 dimensions towards the hole. Coded by Angela.
+
+3. The mallet making contact with the ball to initiate its motion towards the hole, animation paused while the ball is in motion. Coded by Vincent, who also assembled the 3 parts together.
